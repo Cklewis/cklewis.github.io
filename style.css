@@ -1,0 +1,177 @@
+*
+{
+    margin: 0;
+    padding: 0;  
+    text-decoration:none;
+
+}
+
+
+
+.main li{
+    display:inline;
+    padding: 20px;
+}
+
+.main h1{
+    color:  rgb(9, 248, 41);
+    background-color: Black;
+    PADDING: 20px;
+    cursor:pointer;
+    text-align: left;
+}
+
+a{
+    color:orange;
+}
+a:hover{ 
+    color: red;
+}
+
+a:active {
+    color:green;
+}
+
+.heading h2{
+    color: rgb(9, 248, 41);
+    font-size: 2em;
+    /* text-decoration-line: underline; */
+    /* margin-bottom:0.40em; */
+    font-style: bold;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    margin-left:12px;
+    margin-top:2em;
+    text-align:left;
+  
+    width:26%
+
+}
+
+body{
+    /*background-image: url(minimalistic-programming_00252003.jpg);*/
+    /* background-image: url(Blow-Kiss.jpeg); */
+    background-image: url(fish.jpeg); 
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
+    background-color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+    margin: auto;
+}
+
+.hero 
+{
+    text-align: left;
+    color:rgb(9, 248, 41);
+    background-color: black;
+    font-style: bold;
+    text-transform: uppercase;
+    width: 27%;
+/*     margin: auto; */
+    padding:10px;
+    margin-bottom:10px;
+    margin-left:1.0em;
+    margin-top:1em;;
+}
+
+.my-form h1{
+    color:rgb(9, 248, 41);
+    margin-bottom:3px;
+}
+
+.my-form{
+    color:rgb(9, 248, 41);
+}
+
+.container{
+    width:40%;
+    color:  rgb(9, 248, 41);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-style: bold;
+  
+}
+
+.button{
+    background-color:black;
+    padding:10px 15px;
+    border:none;
+    font-size:1.2em;
+    color:orange;
+}
+
+.button:hover{
+    background:yellow;
+    color:black;
+}
+
+.my-form .sign{
+margin-left: 8.5em;
+width:12.5%;
+background-color:black;
+padding-left:15px;
+}
+
+.my-form{
+    padding:20px;
+    line-height: 2em;
+}
+
+.my-form .form-group{
+    padding-bottom:15px;
+}
+
+.my-form label{
+    display:block;
+}
+
+.my-form input[type="text"], .my-form textarea{
+    padding:8px;
+    width:30%;
+}
+
+.sub{
+    font-size: 1.5em;
+}
+
+#main-footer{
+    text-align:center;
+    font-size: 1em;
+    color: rgb(9, 248, 41);
+    clear:both;
+    text-align:center;
+    margin-top:1em
+}
+
+.Home{
+    padding: 20px;
+}
+
+.containerImg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2{
+    
+    border-bottom:2px solid  rgb(9, 248, 41);
+    text-align:center;
+    
+    box-shadow: 4p 4px 5px rgba(22, 22, 22, 0.533);
+}
+
+img { 
+    width: 450px;
+    height: 300px;
+    margin:10px;
+    transition: all 1s;
+
+}
+
+img:hover{
+    transform:scale(1.1);
+}
