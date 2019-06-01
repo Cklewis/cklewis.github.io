@@ -52,7 +52,7 @@ body{
     /*background-image: url(minimalistic-programming_00252003.jpg);*/
     /* background-image: url(Blow-Kiss.jpeg); */
     background-image: url(fish.jpeg); 
-    height: 103vh;
+    height: 105vh;
     background-size:cover;
     background-position: center;
     background-color:red;
@@ -68,7 +68,7 @@ body{
     background-color: black;
     font-style: bold;
     text-transform: uppercase;
-    width: 27%;
+    width: 30%;
 /*     margin: auto; */
     padding:10px;
     margin-bottom:10px;
@@ -110,7 +110,7 @@ body{
 
 .my-form .sign{
 margin-left: 8.5em;
-width:12.5%;
+width:14.5%;
 background-color:black;
 padding-left:15px;
 }
